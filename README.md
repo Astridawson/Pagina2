@@ -1,2 +1,0 @@
-# ReconoSer-NaSer
-# Pagina2
